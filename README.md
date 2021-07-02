@@ -1,5 +1,5 @@
 //javascriptChat
-//How to Use\n
+//How to Use
 
 var values = [
   {
@@ -19,7 +19,11 @@ var values = [
     tag:'d',
   },
 ];
+
 var a = new PieChart(document.getElementsByTagName('canvas')[0]);
+
 a.setValues(values);
+
 a.draw();
+
 //done!!!
