@@ -1,5 +1,5 @@
 //javascriptChat
-//How to Use
+//How to Use\n
 
 var values = [
   {
